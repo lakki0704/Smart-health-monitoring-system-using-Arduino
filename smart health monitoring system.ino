@@ -1,4 +1,7 @@
 // only on pressing the buttons you can start measurement.
+
+// project done by 5 members : Nitin Flavier , Lakshmi Sathyan , Prkriti Dey , Vishnu A and Shruti Nair 
+
 #include <DHT.h>
 #include <Adafruit_Sensor.h>
 #include <LiquidCrystal.h>
